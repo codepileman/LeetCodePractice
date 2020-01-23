@@ -2,20 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9186976-1413-409f-8015-64b2588a2161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchInsertPosition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchinRotatedSortedArray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidSudoku/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NextPermutation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NextPermutation/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WgXsES8f39pmtwbCMrU75JgaJG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,13 +39,39 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NextPermutation.Main" />
       <module name="Shuati" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="NextPermutation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchInsertPosition.Main" />
+      <module name="Shuati" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SearchInsertPosition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountandSay.Main" />
+      <module name="Shuati" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CountandSay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,6 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -92,21 +131,21 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3112" y="179" key="#Project_Structure/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579572422346" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579582100703">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1579747710297">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579582100703" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579582100703">
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579747710297" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1579747710297">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579582100703" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579582100703">
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579747710297" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1579747710297">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579582100703" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579582100703">
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579747710297" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1579747710297">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579582100703" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579747710297" />
   </component>
 </project>
