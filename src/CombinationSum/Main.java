@@ -39,7 +39,7 @@ public class Main {
         if(target > 0){
             for (int i = index; i < candidates.length; i++) {
                 curSeq.add(candidates[i]);
-                dfs(candidates, target - candidates[i], i+1, res, curSeq);
+                dfs(candidates, target - candidates[i], i, res, curSeq);
                 curSeq.remove(curSeq.size() - 1);
             }
         }
