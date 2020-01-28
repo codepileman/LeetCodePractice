@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9186976-1413-409f-8015-64b2588a2161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JumpGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeIntervals/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaximumSubarray.Main" />
       <module name="Shuati" />
@@ -49,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Permutations.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeIntervals.Main" />
       <module name="Shuati" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Permutations.*" />
+          <option name="PATTERN" value="MergeIntervals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -141,21 +142,21 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3112" y="179" key="#Project_Structure/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1579572422346" />
-    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1580106463834">
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1580191403610">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580106463834" />
-    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1580106463834">
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580191403610" />
+    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1580191403610">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580106463834" />
-    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1580106463834">
+    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580191403610" />
+    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1580191403609">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580106463834" />
-    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1580106463834">
+    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580191403609" />
+    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1580191403610">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580106463834" />
+    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580191403610" />
   </component>
 </project>
