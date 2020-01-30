@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9186976-1413-409f-8015-64b2588a2161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UniquePathII/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumPathSum/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaximumSubarray.Main" />
       <module name="Shuati" />
@@ -76,19 +76,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pow.Main" />
-      <module name="Shuati" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UniquePath.Main" />
       <module name="Shuati" />
@@ -102,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumPathSum.Main" />
+      <module name="Shuati" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MinimumPathSum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -146,21 +146,21 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3200" y="249" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580269298581" />
-    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1580355426216">
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom" timestamp="1580403641593">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580355426216" />
-    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1580355426216">
+    <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580403641593" />
+    <state width="1876" height="269" key="GridCell.Tab.0.center" timestamp="1580403641593">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580355426216" />
-    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1580355426216">
+    <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580403641593" />
+    <state width="1876" height="269" key="GridCell.Tab.0.left" timestamp="1580403641593">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580355426216" />
-    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1580355426216">
+    <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580403641593" />
+    <state width="1876" height="269" key="GridCell.Tab.0.right" timestamp="1580403641593">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580355426216" />
+    <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1580403641593" />
   </component>
 </project>
