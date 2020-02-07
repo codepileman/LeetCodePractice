@@ -22,7 +22,7 @@ public class Main {
         }
 
         //min number is at left (left equals to right now);
-
+        //decide which part to search the target
         int start = left;
         left = 0;
         right = nums.length - 1;
