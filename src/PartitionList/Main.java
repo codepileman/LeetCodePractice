@@ -11,7 +11,7 @@ public class Main {
     }
     public ListNode partition(ListNode head, int x) {
 
-        //use two
+        //use two pointers
 
         ListNode dummy1Head = new ListNode(-1);
         ListNode dummy1 = dummy1Head;
@@ -19,7 +19,6 @@ public class Main {
 
         ListNode dummy2Head = new ListNode(-1);
         ListNode dummy2 = dummy2Head;
-
 
         while(head != null){
             if(head.val < x){
