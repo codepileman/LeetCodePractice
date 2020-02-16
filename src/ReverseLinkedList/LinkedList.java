@@ -1,34 +1,63 @@
 package ReverseLinkedList;
 
+
+
 public class LinkedList {
-    Node head;
+//    Node head;
+//
+//    public void add(Node node){
+//        if(head == null){
+//            head = node;
+//
+//        }else {
+//            Node currentNode =  head;
+//            while(currentNode.next != null){
+//                currentNode = currentNode.next;
+//            }
+//
+//            currentNode.next = node;
+//        }
+//    }
+//
+//    public Node reverseList(Node head){
+//        if(head == null || head.next == null){
+//            return head;
+//        }
+//
+//        Node newHead = reverseList(head.next);
+//
+//        head.next.next = head;
+//        head.next = null;
+//
+//        return newHead;
+//
+//
+//    }
 
-    public void add(Node node){
-        if(head == null){
-            head = node;
-
-        }else {
-            Node currentNode =  head;
-            while(currentNode.next != null){
-                currentNode = currentNode.next;
-            }
-
-            currentNode.next = node;
-        }
+    class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
     }
 
-    public Node reverseList(Node head){
+    public ListNode reverseList(ListNode head) {
         if(head == null || head.next == null){
             return head;
         }
+        ListNode prev = null;
+        ListNode cur = head;
+        ListNode next = cur.next;
 
-        Node newHead = reverseList(head.next);
+        while(cur != null){
+            cur.next = prev;
+            prev = cur;
+            cur = next;
+            if(cur != null){
+                next = cur.next;
+            }
 
-        head.next.next = head;
-        head.next = null;
+        }
 
-        return newHead;
-
-
+        return prev;
     }
 }
