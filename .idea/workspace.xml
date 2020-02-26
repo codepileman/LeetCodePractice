@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9186976-1413-409f-8015-64b2588a2161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConstructBinaryTreefromPreordeandInorderTraversal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstructBinaryTreefromInorderandPostorderTraversal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,6 +162,10 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1582002403207" />
+    <state x="3044" y="194" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582685520624">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3044" y="194" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1582685520624" />
     <state x="3183" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1580442444023">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
