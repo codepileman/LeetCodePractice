@@ -2,42 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9186976-1413-409f-8015-64b2588a2161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindAllAnagramsinString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KthLargestElementinanArray/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LRUCache/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListCycle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedListCycleii/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestContinuousIncreasingSubsequence/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumNumberofBalloons/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeetingRoom/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MeetingRoomII/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/LargestKthatKandNegativeKexist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/LexicographicallySmallestString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/LongestSemiAlternatingSubstring/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/LongestSubstringWithout3ContiguousLetter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/MaxInsertsObtainStringWO3Consecutive/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/MaxNetworkRank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/MinAdjSwapstoGroupRedBalls/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/MinAdjSwapstoMakePalindrome/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/MinMovestoObtainStringWithout3IdenticalConsecutiveLetters/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/MinStepsMakePilesEqualHeight/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/NumbersWithEqualDigitSum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumDepthofBinaryTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberofIslands/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PalindromePermutation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathSum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathSumII/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PathSumIII/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintZeroEvenOdd/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RepeatedSubstringPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SayHello/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubarrayProductLessThanK/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TEst/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaskScheduler/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopKFrequentElements/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VerifyinganAlienDictionary/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreak/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/CountVisibleNodesinBinaryTree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/CropWords/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/FairIndexes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/LargestAlphabeticCharacter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/LargestMalignedSubset/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/LargestnumberXoccursXtimes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/MinCosttoGetStringWithout2IdenticalConsecutiveLetters/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/ParticleVelocity/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/Riddle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MicrosoftOA/WidestPathWithoutTrees/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Shuati/MicrosoftOA/MinAdjSwapstoGroupRedBalls/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shuati/MicrosoftOA/MinAdjSwapstoGroupRedBalls/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MeetingRoomII/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MeetingRoomII/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +47,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.MinStepsMakePilesEqualHeight.Main" />
+      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.CropWords.Main" />
       <module name="Shuati" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MicrosoftOA.MinStepsMakePilesEqualHeight.*" />
+          <option name="PATTERN" value="MicrosoftOA.CropWords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +62,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.MaxInsertsObtainStringWO3Consecutive.Main" />
+      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.LargestnumberXoccursXtimes.Main" />
       <module name="Shuati" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MicrosoftOA.MaxInsertsObtainStringWO3Consecutive.*" />
+          <option name="PATTERN" value="MicrosoftOA.LargestnumberXoccursXtimes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.LargestKthatKandNegativeKexist.Main" />
+      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.MinCosttoGetStringWithout2IdenticalConsecutiveLetters.Main" />
       <module name="Shuati" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MicrosoftOA.LargestKthatKandNegativeKexist.*" />
+          <option name="PATTERN" value="MicrosoftOA.MinCosttoGetStringWithout2IdenticalConsecutiveLetters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.LongestSemiAlternatingSubstring.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.LargestAlphabeticCharacter.Main" />
       <module name="Shuati" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MicrosoftOA.LongestSemiAlternatingSubstring.*" />
+          <option name="PATTERN" value="MicrosoftOA.LargestAlphabeticCharacter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.MinAdjSwapstoGroupRedBalls.Main" />
+      <option name="MAIN_CLASS_NAME" value="MicrosoftOA.Riddle.Main" />
       <module name="Shuati" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MicrosoftOA.MinAdjSwapstoGroupRedBalls.*" />
+          <option name="PATTERN" value="MicrosoftOA.Riddle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,34 +153,50 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3325" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1585109722958" />
-    <state width="2516" height="293" key="GridCell.Tab.0.bottom" timestamp="1590347370937">
+    <state width="2516" height="333" key="GridCell.Tab.0.bottom" timestamp="1590956051784">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2516" height="293" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590347370937" />
+    <state width="2516" height="333" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590956051784" />
     <state width="2516" height="263" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1587342247505" />
     <state width="1876" height="269" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1586840612243" />
-    <state width="2516" height="122" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1590120212985" />
-    <state width="2516" height="293" key="GridCell.Tab.0.center" timestamp="1590347370936">
+    <state width="2516" height="177" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1590630825391" />
+    <state width="2516" height="333" key="GridCell.Tab.0.center" timestamp="1590956051784">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2516" height="293" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590347370936" />
+    <state width="2516" height="333" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590956051784" />
     <state width="2516" height="263" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1587342247505" />
     <state width="1876" height="269" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1586840612242" />
-    <state width="2516" height="122" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1590120212985" />
-    <state width="2516" height="293" key="GridCell.Tab.0.left" timestamp="1590347370936">
+    <state width="2516" height="177" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1590630825391" />
+    <state width="2516" height="333" key="GridCell.Tab.0.left" timestamp="1590956051784">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2516" height="293" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590347370936" />
+    <state width="2516" height="333" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590956051784" />
     <state width="2516" height="263" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1587342247505" />
     <state width="1876" height="269" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1586840612242" />
-    <state width="2516" height="122" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1590120212985" />
-    <state width="2516" height="293" key="GridCell.Tab.0.right" timestamp="1590347370936">
+    <state width="2516" height="177" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1590630825390" />
+    <state width="2516" height="333" key="GridCell.Tab.0.right" timestamp="1590956051784">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2516" height="293" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590347370936" />
+    <state width="2516" height="333" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590956051784" />
     <state width="2516" height="263" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1587342247505" />
     <state width="1876" height="269" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@2560.0.1920.1040" timestamp="1586840612242" />
-    <state width="2516" height="122" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1590120212985" />
+    <state width="2516" height="177" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1590630825391" />
+    <state width="2516" height="348" key="GridCell.Tab.1.bottom" timestamp="1590899484656">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2516" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590899484656" />
+    <state width="2516" height="348" key="GridCell.Tab.1.center" timestamp="1590899484656">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2516" height="348" key="GridCell.Tab.1.center/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590899484656" />
+    <state width="2516" height="348" key="GridCell.Tab.1.left" timestamp="1590899484656">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2516" height="348" key="GridCell.Tab.1.left/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590899484656" />
+    <state width="2516" height="348" key="GridCell.Tab.1.right" timestamp="1590899484656">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2516" height="348" key="GridCell.Tab.1.right/0.0.2560.1040/-1920.9.1920.1040@0.0.2560.1040" timestamp="1590899484656" />
     <state x="3044" y="194" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582685520624">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>

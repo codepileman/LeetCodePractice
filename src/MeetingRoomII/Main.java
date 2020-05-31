@@ -21,8 +21,8 @@ public class Main {
 
         pq.add(intervals[0]);
         for (int i = 1; i < intervals.length; i++) {
-            Interval earliest = pq.remove(); //remove the item with smallest end in pq
-            if(intervals[i].start >= earliest.end){
+            Interval earliest = pq.remove();
+            if(intervals[i].start >= earliest.end){//跟最早结束的meeting比较
                 earliest = intervals[i];
             }else{
                 pq.add(intervals[i]);
