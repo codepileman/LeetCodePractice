@@ -21,7 +21,7 @@ public class Main {
 
         pq.add(intervals[0]);
         for (int i = 1; i < intervals.length; i++) {
-            Interval earliest = pq.remove();
+            Interval earliest = pq.remove(); //remove the first element in pq
             if(intervals[i].start >= earliest.end){//跟最早结束的meeting比较
                 earliest = intervals[i];
             }else{

@@ -4,7 +4,8 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println( solution("admeDCAB"));
+//        System.out.println( solution("admeDCAB"));
+        System.out.println((char)(1+'A'));
     }
 
     public static String solution(String s){
